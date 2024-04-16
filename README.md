@@ -1,4 +1,4 @@
-# Tela de Login para Autenticação - UFRN
+# Tela de Login para Autenticação
 
 Este projeto foi desenvolvido com o objetivo de praticar conhecimentos em HTML, CSS e Bootstrap. A aplicação consiste em uma tela de login simples, destinada à autenticação em um sistema.
 
